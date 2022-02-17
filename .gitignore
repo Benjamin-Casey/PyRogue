@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+code/__pycache__/debug.cpython-38.pyc
+code/__pycache__/level.cpython-38.pyc
+code/__pycache__/player.cpython-38.pyc
